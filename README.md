@@ -1,5 +1,5 @@
 Hello my name is Jessica Ferreira and i am from Campinas 🇧🇷. 
-I've been studying HTML + CSS + JAVASCRIPT and i pretend to start studying React Js very soon but i am always open to face new challenges.
+I've been studying HTML + CSS + JAVASCRIPT and i will start study React Js very soon but i am always open to face new challenges.
 
 👩‍🎓 ADS - Universidade Presbiteriana Mackenzie <br>
 📚 🚀 🎯 Focused<br> <br>
